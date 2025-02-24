@@ -9,7 +9,7 @@ Ce projet illustre la manipulation du **HDFS** (*Hadoop Distributed File System*
 - **IntelliJ IDEA**
 - **Docker Desktop** (pour exécuter Hadoop via des conteneurs)
 
-## 🚀 Étapes d'exécution
+## Étapes d'exécution
 
 ### 1️⃣ Cloner le projet
 ```bash
